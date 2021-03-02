@@ -1,4 +1,4 @@
-!alt[Batsal Ghimire](./untitled.svg)
+!alt[Batsal Ghimire](untitled.svg)
 
 ### Hi, I'm <a href="https://batsal.me" target="_blank">Batsal Ghimire</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
