@@ -1,4 +1,4 @@
-!alt[Batsal Ghimire](https://vectr.com/tmp/gvGEgc66o/d3BqOOFQXD.svg?width=640.71&height=190.18&select=a7JbVYKPp,a1r7U3ueR&source=selection.svg)
+!alt[Batsal Ghimire](./untitled.svg)
 
 ### Hi, I'm <a href="https://batsal.me" target="_blank">Batsal Ghimire</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
