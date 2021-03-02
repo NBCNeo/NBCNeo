@@ -11,7 +11,9 @@
 <h3>🙎 Batsal Ghimire | 💻 Software Developer and Product Manager | 🛸 San Francisco,CA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br/>
-I'm a junior studying Artificial Intelligence and Economics @ **Minerva Schools at KGI**. 
+
+I'm a junior studying Artificial Intelligence and Economics @ Minerva Schools at KGI. 
+
 <br/>
 
 Backpacking around the world to explore its wonders, I have gained an appreciation for the role of technology at enhancing human lives. And, I want to play a part in that enhancement. That's all.
