@@ -8,7 +8,7 @@
 ### Welcome to my code articulation center :)
 
 <div align="center">
-🙎 Batsal Ghimire | 💻 Software Developer and Product Manager | 🛸 San Francisco,CA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>🙎 Batsal Ghimire | 💻 Software Developer and Product Manager | 🛸 San Francisco,CA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br/>
 I'm a junior studying Artificial Intelligence and Economics @ **Minerva Schools at KGI**. 
