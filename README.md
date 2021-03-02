@@ -8,7 +8,7 @@
 ### Welcome to my code articulation center :)
 
 <div align="center">
-🙎 **Batsal Ghimire** | 💻 **Software Developer and Product Manager** | 🛸 **San Francisco,CA** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+🙎 Batsal Ghimire | 💻 Software Developer and Product Manager | 🛸 San Francisco,CA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br/>
 I'm a junior studying Artificial Intelligence and Economics @ Minerva Schools at KGI. 
@@ -40,7 +40,7 @@ As a **product manager**, I aspire to build products that are accessible to all,
 
 **More about me:**
 
-- 👨🏻‍💻 Currently, I'm Building an **AI powered dashboard** that based on current trends, prescribes ways to grow your Instagram and Tiktok user base.
+- 👨🏻‍💻 I'm Building an **AI powered dashboard** that based on current trends, prescribes ways to grow your Instagram and Tiktok user base.
 - 🚀 I'm learning about **self-driving** and reading "Autonomy: The Quest to Build the Driverless Car" by Christopher Shulgan and Larry Burns.
 - 👨 I am a professional mountaineer (and I have a lot of cool stories).
 - 💬 Please feel free to **contact me** any way you find convenient.
