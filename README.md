@@ -5,14 +5,15 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iambatsal)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@batsal.ghi)
 
-### Welcome to my code articulation center :). &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Welcome to my code articulation center :)
 
-I'm a junior studying Artificial Intelligence and Economics @ Minerva Schools at KGI. Backpacking around the world to explore its wonders, I have gained an appreciation for the role of technology at enhancing human lives. And, I want to play a part in that enhancement. That's all.
+I'm a junior studying Artificial Intelligence and Economics @ Minerva Schools at KGI. 
+<br/>
+Backpacking around the world to explore its wonders, I have gained an appreciation for the role of technology at enhancing human lives. And, I want to play a part in that enhancement. That's all.
 
 As a software developer, I love exploring the cutting edge of what exists, and for that, I have mastered the art of learning.
+<br/>
 As a product manager, I aspire to build products that are accessible to all, and that help solve the most pressing issues we face as a generation.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
 **More about me:**
@@ -20,7 +21,6 @@ As a product manager, I aspire to build products that are accessible to all, and
 - 👨🏻‍💻 Currently, I'm Building an AI powered dashboard that based on current trends, prescribes ways to grow your Instagram and Tiktok user base.
 - 🚀 I'm learning about self-driving and reading "Autonomy: The Quest to Build the Driverless Car" by Christopher Shulgan and Larry Burns.
 - 💬 Please feel free to contact me any way you find convenient.
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - 📫 **Email**: batsal.ghi@gmail.com
 </br>
 
