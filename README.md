@@ -11,16 +11,16 @@
 🙎 Batsal Ghimire | 💻 Software Developer and Product Manager | 🛸 San Francisco,CA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br/>
-I'm a junior studying Artificial Intelligence and Economics @ Minerva Schools at KGI. 
+I'm a junior studying Artificial Intelligence and Economics @ **Minerva Schools at KGI**. 
 <br/>
 
 Backpacking around the world to explore its wonders, I have gained an appreciation for the role of technology at enhancing human lives. And, I want to play a part in that enhancement. That's all.
 
-As a **software developer**, I love exploring the cutting edge of what exists and work with the latest technologies.
+As a **software developer**, I love exploring the cutting edge of what exists and tinker around with the latest technologies.
 <br/>
 <br/>
 As a **product manager**, I aspire to build products that are accessible to all, and that help change human behavior (for the better).
-
+</br>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -40,7 +40,7 @@ As a **product manager**, I aspire to build products that are accessible to all,
 
 **More about me:**
 
-- 👨🏻‍💻 I'm Building an **AI powered dashboard** that based on current trends, prescribes ways to grow your Instagram and Tiktok user base.
+- 👨🏻‍💻 Currently, I'm building an **AI powered dashboard** that based on current trends, prescribes ways to grow your Instagram and Tiktok user base.
 - 🚀 I'm learning about **self-driving** and reading "Autonomy: The Quest to Build the Driverless Car" by Christopher Shulgan and Larry Burns.
 - 👨 I am a professional mountaineer (and I have a lot of cool stories).
 - 💬 Please feel free to **contact me** any way you find convenient.
