@@ -1,3 +1,5 @@
+!alt[Batsal Ghimire](https://vectr.com/tmp/gvGEgc66o/d3BqOOFQXD.svg?width=640.71&height=190.18&select=a7JbVYKPp,a1r7U3ueR&source=selection)
+
 ### Hi, I'm <a href="https://batsal.me" target="_blank">Batsal Ghimire</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/batsalghi)
@@ -11,10 +13,11 @@ I'm a junior studying Artificial Intelligence and Economics @ Minerva Schools at
 <br/>
 Backpacking around the world to explore its wonders, I have gained an appreciation for the role of technology at enhancing human lives. And, I want to play a part in that enhancement. That's all.
 
-As a software developer, I love exploring the cutting edge of what exists, and for that, I have mastered the art of learning.
+As a software developer, I love exploring the cutting edge of what exists, and learn the latest technologies.
 <br/>
 As a product manager, I aspire to build products that are accessible to all, and that help solve the most pressing issues we face as a generation.
-  
+
+
 
 **More about me:**
 
